@@ -1,0 +1,4 @@
+[submodule "course-work/Implementations/MovieAPI"]
+	path = course-work/Implementations/MovieAPI
+	url = https://github.com/HristoBogdanov/MovieAPI.git
+	branch = main
